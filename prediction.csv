@@ -1,0 +1,3 @@
+date,league,home_team,away_team,win_prob_home,win_prob_away,pred_total_points,suggestion
+2025-04-12,Euroleague,Real Madrid,Panathinaikos,100.0,0.0,175.4,Home ML
+2025-04-13,Euroleague,Olympiacos,Fenerbahce,100.0,0.0,162.2,Home ML
